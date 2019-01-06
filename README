@@ -11,6 +11,8 @@ The program takes 2 arguments excluding the executable file. The first argument 
 total number of philosophers to sit at the table and the second argument is the number
 of times each philosopher should eat to feel satisfied.
 
+Made for and tested on Linux & Unix systems.
+
 ****************************************
 
 COMPILATION:
