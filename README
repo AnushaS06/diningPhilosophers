@@ -1,0 +1,63 @@
+****************************************
+Student: Anugesh Balasubramaniam
+Date: 03-27-2017
+****************************************
+
+BRIEF DESCRIPTION:
+
+Dine:
+The dining philosopher program is an attempt to simulate the dining philosopher problem.
+The program takes 2 arguments excluding the executable file. The first argument is the
+total number of philosophers to sit at the table and the second argument is the number
+of times each philosopher should eat to feel satisfied.
+
+****************************************
+
+COMPILATION:
+
+make
+
+****************************************
+
+USAGE EXAMPLE:
+
+Dine: ./dine 3 2
+- 3 is the number of philosophers
+- 2 is the number of times each philosopher should eat
+
+****************************************
+
+RUNTIME:
+
+Example:
+
+Dine:
+
+make
+
+./dine 3 2
+
+Philosopher 1 is thinking
+Philosopher 1 is eating
+Philosopher 2 is thinking
+Philosopher 2 is eating
+Philosopher 3 is thinking
+Philosopher 1 is thinking
+Philosopher 3 is eating
+Philosopher 2 is thinking
+Philosopher 1 is eating
+Philosopher 3 is thinking
+Philosopher 2 is eating
+Philosopher 1 is thinking
+Philosopher 3 is eating
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+
+****************************************
+
+REFERENCES:
+- http://timmurphy.org/2010/05/04/pthreads-in-c-a-minimal-working-example/
+- https://moodle.socs.uoguelph.ca/pluginfile.php/19728/mod_resource/content/1/Lab5.pdf
+- https://moodle.socs.uoguelph.ca/pluginfile.php/19800/mod_resource/content/1/Lab6.pdf
+- Operating System Concepts - 9th Edition textbook
+- man pages
