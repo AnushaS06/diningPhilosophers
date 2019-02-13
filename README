@@ -59,7 +59,5 @@ Philosopher 3 is thinking
 
 REFERENCES:
 - http://timmurphy.org/2010/05/04/pthreads-in-c-a-minimal-working-example/
-- https://moodle.socs.uoguelph.ca/pluginfile.php/19728/mod_resource/content/1/Lab5.pdf
-- https://moodle.socs.uoguelph.ca/pluginfile.php/19800/mod_resource/content/1/Lab6.pdf
 - Operating System Concepts - 9th Edition textbook
 - man pages
